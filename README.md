@@ -31,6 +31,7 @@ Provide guidelines for loading and reusing the model in other environments.
 8. Streamlit Application Deployment
 Build a simple Streamlit app for farmers to upload bean images and receive disease predictions.
 Display class labels with confidence scores and handle errors gracefully for unsupported file types.
+
 🌟 Conclusion
 
 This project bridges technology and agriculture, offering an innovative tool for disease detection in bean crops. By combining transfer learning with a user-friendly application, it enhances crop management practices, boosting agricultural productivity.
