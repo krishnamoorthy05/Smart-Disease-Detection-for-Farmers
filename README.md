@@ -1,4 +1,4 @@
-#Bean Crop Disease Detection with Transfer Learning
+Bean Crop Disease Detection with Transfer Learning
 
 This project leverages TensorFlow and MobileNet to build a machine learning model for classifying bean crop diseases through image analysis, assisting farmers in identifying infected plants. By applying transfer learning, the initiative ensures efficient training on the TensorFlow Beans dataset and deploys a user-friendly Streamlit application for practical usage.
 
